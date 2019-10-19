@@ -1,0 +1,5 @@
+
+> nodesample@1.0.0 start /root/nodesample
+> node test.js
+
+Example app listening on port 3000!
